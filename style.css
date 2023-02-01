@@ -10,7 +10,7 @@ body{
     color: #222;
 }
 
-img{
+#img{
     height: 30vamx;
     width: 30vmax;
     padding-top: 10vmax;
@@ -75,12 +75,12 @@ img{
 	
 }
 
-.img-area{
+.area1{
     position: absolute;
-    top: 60px;
-    left: 80px;
-    height: 5px;
-    width:5px;
+    top: 34vmax;
+    left: 20vmax;
+    height: 5vmax;
+    width: 5vmax;
     
 }
    

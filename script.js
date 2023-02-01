@@ -27,7 +27,7 @@ function setNewColor(color){
 //for company brand
 const selectImage = document.querySelector('.logo');
 const inputFile = document.querySelector('#file');
-const imgArea = document.querySelector('.img-area');
+const imgArea = document.querySelector('.area1');
 
 selectImage.addEventListener('click', function () {
 	inputFile.click();
